@@ -1,3 +1,22 @@
 body {
   background-color: #F4EEED;
 }
+
+button {
+  padding: 7px;
+  width: 225px;
+  border-radius: 3px;
+  margin: 7px;
+  display: block;
+}
+
+.track-package {
+  border: 1.5px solid #846a29;
+  background: linear-gradient(#F4DDA4, #f0c14b);
+  margin-bottom: 18px;
+}
+
+.order-actions {
+  border: 1.5px solid #A2A6AC;
+  background: linear-gradient(#E6E6E6, #CCCCCC);
+}
